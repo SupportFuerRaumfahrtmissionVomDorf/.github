@@ -1,0 +1,2 @@
+# .github
+generelle Projekt Dokumentation
